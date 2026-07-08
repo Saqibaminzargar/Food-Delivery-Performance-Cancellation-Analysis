@@ -45,6 +45,14 @@ The company wants to understand:
 
 ---
 
+## Screen shots
+**Revenue & Sales Performance**
+
+**Cancellation Analysis**
+
+
+---
+
 ## Dashboard Pages
 
 ### 1. Revenue & Sales Performance
