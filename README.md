@@ -51,6 +51,7 @@ The company wants to understand:
 
 
 ![Cancellation Analysis](https://github.com/Saqibaminzargar/Food-Delivery-Performance-Cancellation-Analysis/blob/main/Cancellation%20Analysis.png)
+
 ---
 
 ## Dashboard Pages
