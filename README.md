@@ -46,12 +46,11 @@ The company wants to understand:
 ---
 
 ## Screen shots
-**Revenue & Sales Performance**
-https://github.com/Saqibaminzargar/Food-Delivery-Performance-Cancellation-Analysis/blob/main/Reveue%20And%20Sales%20Performance.png
 
-**Cancellation Analysis**
-https://github.com/Saqibaminzargar/Food-Delivery-Performance-Cancellation-Analysis/blob/main/Cancellation%20Analysis.png
+![Revenue & Sales Performance](https://github.com/Saqibaminzargar/Food-Delivery-Performance-Cancellation-Analysis/blob/main/Reveue%20And%20Sales%20Performance.png)
 
+
+![Cancellation Analysis](https://github.com/Saqibaminzargar/Food-Delivery-Performance-Cancellation-Analysis/blob/main/Cancellation%20Analysis.png)
 ---
 
 ## Dashboard Pages
